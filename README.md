@@ -1,6 +1,6 @@
 # 🎉 CSharpEgitimKampi
 Youtube üzerinde  Murat Yücedağ tarafından yayınlanan C# Kamp'ının 101-201 seviyesindeki ilk 10 projesini bitirmiş bulunmaktayım.
-Her bölümde üstüne koyarak kendimi geliştirdiğimi düşünüyorum. Bahsettiğim 10 proje'nin detaylarını aşşağıya bırakacağım.
+Her bölümde üstüne koyarak kendimi geliştirdiğimi düşünüyorum. Bahsettiğim 10 proje'nin detaylarını aşağıya bırakacağım.
 
 
 

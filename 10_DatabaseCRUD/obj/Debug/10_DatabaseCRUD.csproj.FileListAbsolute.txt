@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\10_DatabaseCRUD\bin\Debug\10_DatabaseCRUD.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\10_DatabaseCRUD\bin\Debug\10_DatabaseCRUD.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\10_DatabaseCRUD\bin\Debug\10_DatabaseCRUD.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\10_DatabaseCRUD\obj\Debug\10_DatabaseCRUD.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\10_DatabaseCRUD\obj\Debug\10_DatabaseCRUD.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\10_DatabaseCRUD\obj\Debug\10_DatabaseCRUD.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\10_DatabaseCRUD\obj\Debug\10_DatabaseCRUD.pdb

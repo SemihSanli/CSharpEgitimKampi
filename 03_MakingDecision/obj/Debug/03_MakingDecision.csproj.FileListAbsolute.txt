@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb

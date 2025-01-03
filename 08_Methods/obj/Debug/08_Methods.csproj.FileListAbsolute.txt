@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb

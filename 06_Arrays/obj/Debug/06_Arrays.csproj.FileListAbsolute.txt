@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb

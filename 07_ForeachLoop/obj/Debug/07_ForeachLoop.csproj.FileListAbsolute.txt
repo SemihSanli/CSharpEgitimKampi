@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb

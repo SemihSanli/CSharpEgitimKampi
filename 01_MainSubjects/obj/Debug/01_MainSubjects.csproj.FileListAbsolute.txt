@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb

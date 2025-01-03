@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\09_DataBase\bin\Debug\09_DataBase.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\09_DataBase\bin\Debug\09_DataBase.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\09_DataBase\bin\Debug\09_DataBase.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\09_DataBase\obj\Debug\09_DataBase.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\09_DataBase\obj\Debug\09_DataBase.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\09_DataBase\obj\Debug\09_DataBase.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\09_DataBase\obj\Debug\09_DataBase.pdb

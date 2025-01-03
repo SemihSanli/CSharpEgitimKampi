@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb

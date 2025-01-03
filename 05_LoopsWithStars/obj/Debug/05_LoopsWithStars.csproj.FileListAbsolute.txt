@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb

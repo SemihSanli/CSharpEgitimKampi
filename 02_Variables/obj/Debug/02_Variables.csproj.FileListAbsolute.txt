@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+H:\Visual Studio 2022\C# BAŞTAN SONA\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb

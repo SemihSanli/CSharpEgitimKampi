@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EgitimKampiEfTravelDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tbl_Admin">
+    <Key>
+      <PropertyRef Name="adminId" />
+    </Key>
+    <Property Name="adminId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Usernaem" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_Customer">
+    <Key>
+      <PropertyRef Name="customerId" />
+    </Key>
+    <Property Name="customerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="customerName" Type="nvarchar" MaxLength="50" />
+    <Property Name="customerSurname" Type="nvarchar" MaxLength="50" />
+    <Property Name="customerBalance" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="Tbl_Guide">
+    <Key>
+      <PropertyRef Name="guideId" />
+    </Key>
+    <Property Name="guideId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="guideName" Type="nvarchar" MaxLength="50" />
+    <Property Name="guideSurname" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_Location">
+    <Key>
+      <PropertyRef Name="locationId" />
+    </Key>
+    <Property Name="locationId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" />
+    <Property Name="Country" Type="nvarchar" MaxLength="50" />
+    <Property Name="Capacity" Type="tinyint" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="DayNight" Type="nvarchar" MaxLength="50" />
+    <Property Name="GuideId" Type="int" />
+  </EntityType>
+  <Association Name="FK_Tbl_Location_Tbl_Guide">
+    <End Role="Tbl_Guide" Type="Self.Tbl_Guide" Multiplicity="0..1" />
+    <End Role="Tbl_Location" Type="Self.Tbl_Location" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Guide">
+        <PropertyRef Name="guideId" />
+      </Principal>
+      <Dependent Role="Tbl_Location">
+        <PropertyRef Name="GuideId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EgitimKampiEfTravelDbModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Admin" EntityType="Self.Tbl_Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Customer" EntityType="Self.Tbl_Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Guide" EntityType="Self.Tbl_Guide" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Location" EntityType="Self.Tbl_Location" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Tbl_Location_Tbl_Guide" Association="Self.FK_Tbl_Location_Tbl_Guide">
+      <End Role="Tbl_Guide" EntitySet="Tbl_Guide" />
+      <End Role="Tbl_Location" EntitySet="Tbl_Location" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

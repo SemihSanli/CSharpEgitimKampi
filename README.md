@@ -38,3 +38,7 @@ Her bölümde üstüne koyarak kendimi geliştirdiğimi düşünüyorum. Bahsett
 # 10.Proje 💻DatabaseCRUD💻
 📝Bu projede; CRUD(Create-Read-Update-Delete) işlemlerini nasıl yapacağımı öğrendim. 9.projede hazırladığım örneğin iskeletini ve veri tabanı bağlantısını kullanarak sırasıyla; kategori ekleme,ürün ekleme,ürün listeleme,ürün silme ve ürün güncelleme işlemlerini yaptım.
 
+# 11.Proje 💻EFTravel💻
+
+![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/8c3261c34362e8e7e21c9cb232df6db4e3d2efd4/EFProject.png).
+

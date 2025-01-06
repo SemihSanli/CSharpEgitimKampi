@@ -41,9 +41,12 @@ Her bölümde üstüne koyarak kendimi geliştirdiğimi düşünüyorum. Bahsett
 # 11.Proje 💻EFTravel💻
 
 ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/8c3261c34362e8e7e21c9cb232df6db4e3d2efd4/EFProject.png).
-# 📝Projenin Amacı Ve Özellikleri
+# 📝Proje'nin Amacı Ve Özellikleri
 Bu Projede, Mini bir tur organizyonu uygulaması yaptım. Şehir,ülke,kapasite,fiyat,gün/gece ve hangi rehberin tur'a eşlik edeceğinin seçildiği bir panel yapısı kurdum. Yetkili kişi bu panelde, gerekli ekleme silme ve güncelleme  butonları ile  veri tabanına ekleme-güncelleme-silme işlemleri yapabilir. Bu panel harici iki adet daha panelim bulunmakta; bunlardan ilki, yeni bir rehber eklemesinin yapıldığı veya mevcut rehberin güncellenip silinebildiği bir panel ve son olarak istatistik paneli, bu panelde; lokasyon sayısı,toplam kapasite,rehber sayısı,ortalama kapasite,ortalama tur fiyatı,eklenen son ülke,kapadokya tur kapasitesi,Türkiye turları ortalama kapasite,Roma gezinsinin rehber ismi,en yüksek kapasiteli tur,en pahalı tur ve Ayşegül Çınar isimli tur rehberinin tur sayısı değerlerini gösteren bir istatistik tablosu'nun bulunduğu panel hazırladım.
 Amacım ; kullanıcının Toplam lokasyon sayısı,Toplam Kapasite, Toplam Rehber Sayısı,Ortalama Kapasite,Ortalama Tur Fiyatı,Eklenen Son Ülke,Hangi Lokasyon'un Nekadar Tur Kapasitesi Olduğu Ve Bu Lokasyonlardaki Ortalama Kapasite,Hangi Tur'da Hangi Rehberin Olduğu,En Yüksek Kapasiteli Tur,En Pahalı Tur ve Kayıtlı Rehberlerin Toplam Kaç Adet Tur Sayısı olduğunu hesaplayabilmesi.
 
 
-
+# 📝Proje'nin bana kazandırdıkları
+ Entity Framework ile birlikte model yapısını,DbFirst yaklaşımını kullanarak veri tabanı bağlantısını kurulmasını, gerekli sorguları yazmayı ve LINQ ifadeleriyle birlikte gerekli filtreleme işlemlerini yaparak
+ tasarımsal bir arayüze sahip kullanıcı dostu bir yapı kurmayı öğrendim. Genel olarak, veri tabanı bilgilerim ile winform üzerindeki yetkinliklerimi arttırdığını söyleyebilirim.
+ 

@@ -68,8 +68,32 @@ Amacım ; kullanıcının Toplam lokasyon sayısı,Toplam Kapasite, Toplam Rehbe
  
  # 📃 Dashboard Ekranı 
  Kullanıcılar bu ekranda; "Toplam Bakiyesini", saniye başı değişkenlik gösteren "Fatura Bilgilerini" ve "Gelen Son Havalelerini" , "Bankalar Ve Banka Hesaplarındaki Para Miktarı Grafiği" başlığı altından mevcut paraları'nın bankalar üzerindeki istatistiksel dağılumlarını
- ve "Ödenen Borçlar Grafiği" başlığı altından  Ödeme işlemlerini istatistiksel bir grafik üzerinden görüntüleyebilirler.
+ ve "Ödenen Borçlar Grafiği" başlığı altından  Ödeme işlemlerini istatistiksel bir grafik üzerinden görüntüleyebilirler. Ve Sol paneldeki butonlar yardımıyla farklı ekranlar arasında geçiş yapabilirler.
    ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/c2e65f47d932e0a8d201972c8ffd91d5d1be4b6c/Dashboard.png).
 
- # 📃
- 
+ # 📃 Category Ekranı
+ Kullanıcılar bu ekranda,CRUD işlemleri yapabilirler. Nedir bu işlemler? Bu işlemler; create,read,delete,update işlemleridir. Kullanıcılar istedikleri kategoriyi ekleyip-listeleyip-silip-güncelleyebilir
+
+ ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/01a47297dd575215865982cd8de4d343dadeda5f/Kategori%20Paneli.png).
+
+ # 📃Bankalar Ekranı
+ Kullanıcılar bu ekranda, kullandıkları bankalardaki toplam bakiyeleri görebil, son 5 banka hareketlerine ait bilgileri de görüntüleyebilirler.
+ ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/01a47297dd575215865982cd8de4d343dadeda5f/Bankalar.png).
+
+ # 📃Faturalar Ekranı
+ Kullanıcılar bu ekranda,yaptıkları ödemeleri buraya ekleyip,listeleyip,güncelleyip,silebilir. Yani CRUD işlemlerini gerçekleştirebilir. Ödemeleri;ödeme başlığı,miktarı,periyotu olarak sınıflandırabilir.
+ ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/01a47297dd575215865982cd8de4d343dadeda5f/Faturalar.png).
+ # 📃Giderler/Harcamalar Ekranı
+ Kullanıcılar bu ekranda; yaptıkları harcamaları kategorilere ayırarak  CRUD işlemlerini gerçekleştirebilir,Son 3 harcamalarına ait bilgileri ise alt kısımdan görebilir.
+ ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/01a47297dd575215865982cd8de4d343dadeda5f/GiderlerHarcamalar%20Paneli.png).
+ # 📃Banka Hareketleri Ekranı
+ Kullanıcılar bu ekranda, hesaplarına gelen havale işlemlerini görüntüleyebilir.
+ ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/01a47297dd575215865982cd8de4d343dadeda5f/Banka%20Hareketleri%20Paneli.png).
+ # 💬Ayarlar Butonu Ve Çıkış Yap Butonu
+  Kullanıcılar istekleri doğrultusunda ayarlar paneline gidebilir veya çıkış yap butonuna tıklayarak uygulamayı kapatabilirler.
+
+  # 🏁Projede Kullanılan Teknolojiler/Yaklaşımlar
+    ## Entity Framework
+    ## DbFirst Yaklaşımı
+    ## Entity Framework ile model yapısı
+    ## CRUD işlemleri

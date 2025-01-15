@@ -67,7 +67,7 @@ Amacım ; kullanıcının Toplam lokasyon sayısı,Toplam Kapasite, Toplam Rehbe
  
  
  # 📃 Dashboard Ekranı 
- Kullanıcılar bu ekranda; "Toplam Bakiyesini", saniye başı değişkenlik gösteren "Fatura Bilgilerini" ve "Gelen Son Havalelerini" , "Bankalar Ve Banka Hesaplarındaki Para Miktarı Grafiği" başlığı altından mevcut paraları'nın bankalar üzerindeki istatistiksel dağılumlarını
+ Kullanıcılar bu ekranda; "Toplam Bakiyesini", saniye başı değişkenlik gösteren "Fatura Bilgilerini" ve "Gelen Son Havalelerini" , "Bankalar Ve Banka Hesaplarındaki Para Miktarı Grafiği" başlığı altından mevcut paraları'nın bankalar üzerindeki istatistiksel dağılımlarını
  ve "Ödenen Borçlar Grafiği" başlığı altından  Ödeme işlemlerini istatistiksel bir grafik üzerinden görüntüleyebilirler. Ve Sol paneldeki butonlar yardımıyla farklı ekranlar arasında geçiş yapabilirler.
    ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/c2e65f47d932e0a8d201972c8ffd91d5d1be4b6c/Dashboard.png).
 
@@ -77,7 +77,7 @@ Amacım ; kullanıcının Toplam lokasyon sayısı,Toplam Kapasite, Toplam Rehbe
  ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/01a47297dd575215865982cd8de4d343dadeda5f/Kategori%20Paneli.png).
 
  # 📃Bankalar Ekranı
- Kullanıcılar bu ekranda, kullandıkları bankalardaki toplam bakiyeleri görebil, son 5 banka hareketlerine ait bilgileri de görüntüleyebilirler.
+ Kullanıcılar bu ekranda, kullandıkları bankalardaki toplam bakiyeleri görebilir, son 5 banka hareketlerine ait bilgileri de görüntüleyebilirler.
  ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/01a47297dd575215865982cd8de4d343dadeda5f/Bankalar.png).
 
  # 📃Faturalar Ekranı
@@ -100,5 +100,5 @@ Amacım ; kullanıcının Toplam lokasyon sayısı,Toplam Kapasite, Toplam Rehbe
     ## Entity Framework ile model yapısı
     ## CRUD işlemleri
 
-  # Eğitim Boyunca Öğrendiklerim
+  
     

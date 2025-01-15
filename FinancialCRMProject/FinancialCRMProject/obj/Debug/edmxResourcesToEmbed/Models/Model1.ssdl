@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FinancalCrmDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BankProcessId">
+    <Key>
+      <PropertyRef Name="BankProcessId" />
+    </Key>
+    <Property Name="BankProcessId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="50" />
+    <Property Name="ProcessDate" Type="date" />
+    <Property Name="ProcessType" Type="nvarchar" MaxLength="50" />
+    <Property Name="Amount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="BankId" Type="int" />
+  </EntityType>
+  <EntityType Name="Banks">
+    <Key>
+      <PropertyRef Name="BankId" />
+    </Key>
+    <Property Name="BankId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BankAccountNum" Type="nvarchar" MaxLength="50" />
+    <Property Name="BankTitle" Type="nvarchar" MaxLength="50" />
+    <Property Name="BankBalance" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="Bills">
+    <Key>
+      <PropertyRef Name="BillId" />
+    </Key>
+    <Property Name="BillId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BillTitle" Type="nvarchar" MaxLength="50" />
+    <Property Name="BillAmount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="BillPeriod" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Spendings">
+    <Key>
+      <PropertyRef Name="SpendingId" />
+    </Key>
+    <Property Name="SpendingId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SpendingTitle" Type="nvarchar" MaxLength="250" />
+    <Property Name="SpendingAmount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="CategoryId" Type="int" />
+    <Property Name="SpendingDate" Type="date" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_BankProcessId_Banks">
+    <End Role="Banks" Type="Self.Banks" Multiplicity="0..1" />
+    <End Role="BankProcessId" Type="Self.BankProcessId" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Banks">
+        <PropertyRef Name="BankId" />
+      </Principal>
+      <Dependent Role="BankProcessId">
+        <PropertyRef Name="BankId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Spendings_Categories">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="0..1" />
+    <End Role="Spendings" Type="Self.Spendings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Spendings">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FinancalCrmDbModelStoreContainer">
+    <EntitySet Name="BankProcessId" EntityType="Self.BankProcessId" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Banks" EntityType="Self.Banks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Bills" EntityType="Self.Bills" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Categories" EntityType="Self.Categories" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Spendings" EntityType="Self.Spendings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_BankProcessId_Banks" Association="Self.FK_BankProcessId_Banks">
+      <End Role="Banks" EntitySet="Banks" />
+      <End Role="BankProcessId" EntitySet="BankProcessId" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Spendings_Categories" Association="Self.FK_Spendings_Categories">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Spendings" EntitySet="Spendings" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

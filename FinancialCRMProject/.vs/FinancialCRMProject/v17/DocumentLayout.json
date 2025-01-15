@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\banktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\banktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\financialcrmproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\financialcrmproject\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\financialcrmproject\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\financialcrmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|c:\\users\\semih\\source\\repos\\financialcrmproject\\financialcrmproject\\banktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\banktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\financialcrmproject\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D86013C6-0B3F-4B09-ADD6-B2BAF03EA75A}|FinancialCRMProject\\FinancialCRMProject.csproj|solutionrelative:financialcrmproject\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Expenses.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Expenses.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Expenses.cs [Design]",
+              "RelativeToolTip": "FinancialCRMProject\\Expenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:47:13.4Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBilling.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBilling.cs",
+              "RelativeToolTip": "FinancialCRMProject\\FrmBilling.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:06:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBilling.cs [Design]",
+              "RelativeToolTip": "FinancialCRMProject\\FrmBilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:59:11.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBanks.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBanks.cs",
+              "RelativeToolTip": "FinancialCRMProject\\FrmBanks.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:27:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "FinancialCRMProject\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-11T10:25:43.274Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Program.cs",
+              "RelativeToolTip": "FinancialCRMProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:37:32.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\LoginPanel.cs",
+              "RelativeToolTip": "FinancialCRMProject\\LoginPanel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:58:00.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\LoginPanel.cs [Design]",
+              "RelativeToolTip": "FinancialCRMProject\\LoginPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:57:43.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBanks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\FrmBanks.cs [Design]",
+              "RelativeToolTip": "FinancialCRMProject\\FrmBanks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:23:55.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Form1.cs [Design]",
+              "RelativeToolTip": "FinancialCRMProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:22:04.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankTransactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\BankTransactions.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\BankTransactions.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\BankTransactions.cs [Design]",
+              "RelativeToolTip": "FinancialCRMProject\\BankTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:54:31.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Categories.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Categories.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Categories.cs [Design]",
+              "RelativeToolTip": "FinancialCRMProject\\Categories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:08.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Categories.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Categories.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Categories.cs",
+              "RelativeToolTip": "FinancialCRMProject\\Categories.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:50:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Expenses.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Expenses.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Expenses.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Expenses.cs",
+              "RelativeToolTip": "FinancialCRMProject\\Expenses.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:03:08.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\Form1.cs",
+              "RelativeToolTip": "FinancialCRMProject\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:35:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BankTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\BankTransactions.cs",
+              "RelativeDocumentMoniker": "FinancialCRMProject\\BankTransactions.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\FinancialCRMProject\\FinancialCRMProject\\BankTransactions.cs",
+              "RelativeToolTip": "FinancialCRMProject\\BankTransactions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:54:42.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

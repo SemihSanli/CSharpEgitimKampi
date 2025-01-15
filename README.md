@@ -46,7 +46,30 @@ Bu Projede, Mini bir tur organizyonu uygulaması yaptım. Şehir,ülke,kapasite,
 Amacım ; kullanıcının Toplam lokasyon sayısı,Toplam Kapasite, Toplam Rehber Sayısı,Ortalama Kapasite,Ortalama Tur Fiyatı,Eklenen Son Ülke,Hangi Lokasyon'un Nekadar Tur Kapasitesi Olduğu Ve Bu Lokasyonlardaki Ortalama Kapasite,Hangi Tur'da Hangi Rehberin Olduğu,En Yüksek Kapasiteli Tur,En Pahalı Tur ve Kayıtlı Rehberlerin Toplam Kaç Adet Tur Sayısı olduğunu hesaplayabilmesi.
 
 
+
+
 # 📝Proje'nin bana kazandırdıkları
  Entity Framework ile birlikte model yapısını,DbFirst yaklaşımını kullanarak veri tabanı bağlantısını kurulmasını, gerekli sorguları yazmayı ve LINQ ifadeleriyle birlikte gerekli filtreleme işlemlerini yaparak
  tasarımsal bir arayüze sahip kullanıcı dostu bir yapı kurmayı öğrendim. Genel olarak, veri tabanı bilgilerim ile winform üzerindeki yetkinliklerimi arttırdığını söyleyebilirim.
+
+
+ # Final-Bitirme Projesi 💻FinancialCRM💻
+ 
+ # 📝 Uygulamanın Amacı;
+ Kullanıcının; ödemeleri-faturaları,giderleri,banka hareketleri ve banka bakiyelerini görebilmesi ve kategorize edebilmesini sağlayan mini bir uygulamadır. Daha fazla geliştirilip kurumsal bir hale getirilebilir.
+
+ # 📃 Login Ekranı
+  Kullanıcıların burada, Dashboard ekranına ulaşmak için taraflarına iletilen giriş bilgilerini eksiksiz bir şekilde girmeleri gerekir. Eksik / Hatalı bir giriş yapılırsa sistem hata verecek ve yeniden girmelerini isteyecektir.Ayrıca kullanıcılar bu kutucukları boş geçemez, boş geçmeye çalıştıkları taktirde sistemden bir uyarı mesajı alacaklardır. Doğru giriş sağlandıktan sonra Dashboard paneline erişim sağlayacaklardır.
+  
+ 
+   ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/c2e65f47d932e0a8d201972c8ffd91d5d1be4b6c/Login%20Paneli.png).
+ 
+ 
+ 
+ # 📃 Dashboard Ekranı 
+ Kullanıcılar bu ekranda; "Toplam Bakiyesini", saniye başı değişkenlik gösteren "Fatura Bilgilerini" ve "Gelen Son Havalelerini" , "Bankalar Ve Banka Hesaplarındaki Para Miktarı Grafiği" başlığı altından mevcut paraları'nın bankalar üzerindeki istatistiksel dağılumlarını
+ ve "Ödenen Borçlar Grafiği" başlığı altından  Ödeme işlemlerini istatistiksel bir grafik üzerinden görüntüleyebilirler.
+   ![Image Alt](https://github.com/SemihSanli/CSharpEgitimKampi/blob/c2e65f47d932e0a8d201972c8ffd91d5d1be4b6c/Dashboard.png).
+
+ # 📃
  

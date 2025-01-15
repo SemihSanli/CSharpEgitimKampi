@@ -93,7 +93,12 @@ Amacım ; kullanıcının Toplam lokasyon sayısı,Toplam Kapasite, Toplam Rehbe
   Kullanıcılar istekleri doğrultusunda ayarlar paneline gidebilir veya çıkış yap butonuna tıklayarak uygulamayı kapatabilirler.
 
   # 🏁Projede Kullanılan Teknolojiler/Yaklaşımlar
+    ## Windows Forms 
+    ## C#
     ## Entity Framework
     ## DbFirst Yaklaşımı
     ## Entity Framework ile model yapısı
     ## CRUD işlemleri
+
+  # Eğitim Boyunca Öğrendiklerim
+    
